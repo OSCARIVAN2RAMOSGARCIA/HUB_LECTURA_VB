@@ -24,8 +24,8 @@ Por ejemplo:
 
 ![Captura de pantalla 4](/Capturas/SolicitarPrestamo.png) 
 ![Captura de pantalla 5](/Capturas/EntregarLibro.png) 
-![Captura de pantalla 5](/Capturas/eliminar.png) 
-![Captura de pantalla 5](/Capturas/addlibro.png) 
+![Captura de pantalla 5](/Capturas/Eliminar.png) 
+![Captura de pantalla 5](/Capturas/Addlibro.png) 
 
 ## Instalación y Uso  
 Sigue estos pasos para ejecutar Libreria MEGA en tu máquina:
@@ -40,7 +40,7 @@ Sigue estos pasos para ejecutar Libreria MEGA en tu máquina:
 2. Abre el archivo LibreriaMEGA visual basico 6.0
 
 # Diagrama Entidad Relacion
-![Captura de pantalla 5](/Capturas/der.png) 
+![Captura de pantalla 5](/Capturas/DER.png) 
 
 ## Ejecutar base de datos en SQL server 
 
