@@ -39,6 +39,9 @@ Sigue estos pasos para ejecutar Libreria MEGA en tu máquina:
 1. Accede a la carpeta libreria mega
 2. Abre el archivo LibreriaMEGA visual basico 6.0
 
+# Diagrama Entidad Relacion
+![Captura de pantalla 5](/Capturas/der.png) 
+
 ## Ejecutar base de datos en SQL server 
 
 7. libreria.sql
