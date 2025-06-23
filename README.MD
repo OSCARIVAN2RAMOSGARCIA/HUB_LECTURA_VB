@@ -16,7 +16,7 @@ Por ejemplo:
 
 
 ## Capturas de formulario  
-![Captura de pantalla 1](/Capturas/catalogo.png)  
+![Captura de pantalla 1](/Capturas/Catalogo.png)  
 ![Captura de pantalla 2](/Capturas/Prestados.png) 
 
 
@@ -24,8 +24,8 @@ Por ejemplo:
 
 ![Captura de pantalla 4](/Capturas/SolicitarPrestamo.png) 
 ![Captura de pantalla 5](/Capturas/EntregarLibro.png) 
-![Captura de pantalla 5](/Capturas/Eliminar.png) 
-![Captura de pantalla 5](/Capturas/Addlibro.png) 
+![Captura de pantalla 6](/Capturas/Eliminar.png) 
+![Captura de pantalla 7](/Capturas/Addlibro.png) 
 
 ## Instalación y Uso  
 Sigue estos pasos para ejecutar Libreria MEGA en tu máquina:
